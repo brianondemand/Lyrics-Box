@@ -1,7 +1,5 @@
 # LYRICS BOX
 
-The files can be used to create a lyrics webpage 
+This is a Simple Lyrics webpage of a song on Spotify
 
-rename the files as follows to avoid confussion
-forever.html >>>>> index.html
-song.css >>>>>> style.css
+![alt text](https://github.com/brianondemand/Lyrics-Box/blob/main/forever.png)
